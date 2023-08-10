@@ -29,8 +29,8 @@ This script utilizes the `requests` library to retrieve the content of a JavaScr
 5. The script will attempt to extract the API keys from the JavaScript file and display them on the console if successful. Otherwise, an error message will be shown.
 
 ## Requirements
-Python 3.x
-requests library (Install using pip install requests)
+* Python 3.x
+* requests library (Install using pip install requests)
 
 ## Installation
 1. Clone this repository to your local machine:
